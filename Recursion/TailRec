@@ -1,0 +1,2 @@
+What is difference between tailed and non-tailed recursion?
+A recursive function is tail recursive when recursive call is the last thing executed by the function. Please refer tail recursion article for details.
